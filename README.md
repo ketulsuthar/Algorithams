@@ -4,4 +4,4 @@
 
 | # | Title | Solution | Description |
 |---| ----- | -------- | ---------- |
-|1|Union Find|[Python](./quick_find.py)|Dynamic Connectivity|
+|1|Quick Find|[Python](./quick_find.py)|Dynamic Connectivity (Union Find)|
