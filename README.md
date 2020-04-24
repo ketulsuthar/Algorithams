@@ -5,3 +5,5 @@
 | # | Title | Solution | Description |
 |---| ----- | -------- | ---------- |
 |1|Quick Find|[Python](./quick_find.py)|Dynamic Connectivity (Union Find)|
+|2|Quick Union|[Python](./quick_union.py)|Dynamic Connectivity (Union Find)|
+
